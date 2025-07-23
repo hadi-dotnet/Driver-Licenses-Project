@@ -1,0 +1,6 @@
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverAccsesLayer\bin\Debug\DriverAccsesLayer.dll
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverAccsesLayer\bin\Debug\DriverAccsesLayer.pdb
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverAccsesLayer\obj\Debug\DriverAccsesLayer.csproj.AssemblyReference.cache
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverAccsesLayer\obj\Debug\DriverAccsesLayer.csproj.CoreCompileInputs.cache
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverAccsesLayer\obj\Debug\DriverAccsesLayer.dll
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverAccsesLayer\obj\Debug\DriverAccsesLayer.pdb

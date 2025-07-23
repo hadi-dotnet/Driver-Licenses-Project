@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverLicenseProject", "DriverLicenseProject\DriverLicenseProject.csproj", "{69A0C6A6-DB14-4836-8DFD-EB75DBD8887B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverAccsesLayer", "DriverAccsesLayer\DriverAccsesLayer.csproj", "{25D80226-180D-43BC-BCCC-AFCA10E9D49F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverBusinessLayer", "DriverBusinessLayer\DriverBusinessLayer.csproj", "{3FA4A514-B688-4EEC-95AD-512CB1229CB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A0C6A6-DB14-4836-8DFD-EB75DBD8887B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A0C6A6-DB14-4836-8DFD-EB75DBD8887B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A0C6A6-DB14-4836-8DFD-EB75DBD8887B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A0C6A6-DB14-4836-8DFD-EB75DBD8887B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D80226-180D-43BC-BCCC-AFCA10E9D49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D80226-180D-43BC-BCCC-AFCA10E9D49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D80226-180D-43BC-BCCC-AFCA10E9D49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D80226-180D-43BC-BCCC-AFCA10E9D49F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA4A514-B688-4EEC-95AD-512CB1229CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA4A514-B688-4EEC-95AD-512CB1229CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA4A514-B688-4EEC-95AD-512CB1229CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA4A514-B688-4EEC-95AD-512CB1229CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D9EE5C1-2F0A-4E40-AF9E-324C383AF5CD}
+	EndGlobalSection
+EndGlobal

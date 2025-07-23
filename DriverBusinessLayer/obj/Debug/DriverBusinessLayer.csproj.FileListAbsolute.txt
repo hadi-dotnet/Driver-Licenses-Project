@@ -1,0 +1,9 @@
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverBusinessLayer\bin\Debug\DriverBusinessLayer.dll
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverBusinessLayer\bin\Debug\DriverBusinessLayer.pdb
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverBusinessLayer\bin\Debug\DriverAccsesLayer.dll
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverBusinessLayer\bin\Debug\DriverAccsesLayer.pdb
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverBusinessLayer\obj\Debug\DriverBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverBusinessLayer\obj\Debug\DriverBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverBusinessLayer\obj\Debug\DriverBusinessLayer.csproj.CopyComplete
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverBusinessLayer\obj\Debug\DriverBusinessLayer.dll
+C:\Users\المجرة\source\repos\DriverLicenseProject\DriverBusinessLayer\obj\Debug\DriverBusinessLayer.pdb
