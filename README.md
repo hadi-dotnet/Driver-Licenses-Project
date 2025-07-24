@@ -40,7 +40,7 @@ To scale it for official governmental use, it would require:
 
 ### 📷 Database Diagram
 
-![Database Diagram](https://github.com/hadi-dotnet/Driver-Licenses-Project/images/database-diagram.png?raw=true)
+![Database Diagram](https://github.com/hadi-dotnet/Driver-Licenses-Project/blob/main/Images/database-diagram.PNG?raw=true)
 
 ---
 
