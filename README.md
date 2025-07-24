@@ -15,7 +15,7 @@ This system helps local traffic authorities manage the entire licensing process,
 - Renew licenses, issue replacements for lost/damaged ones.
 - Suspend or release licenses due to violations.
 - Search for licenses and applicants easily.
-- Built on a relational SQL Server database with 13 connected tables.
+- Built on a relational SQL Server database with 14 connected tables.
 
 ---
 
