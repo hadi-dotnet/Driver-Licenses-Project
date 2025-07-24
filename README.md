@@ -30,11 +30,8 @@ This system helps local traffic authorities manage the entire licensing process,
 
 ## 📌 Notes
 
-This project is fully functional and can be used in real scenarios with enhancements.  
-To scale it for official governmental use, it would require:
-- Improved security layers
-- Multi-user support
-- Server-based deployment and high-performance infrastructure
+ While this is a functional and practical system, it is a **prototype-level** project.  
+ To be used in a real-world production environment, the system would require additional development, security enhancements, infrastructure, and deployment on scalable servers.
 
 ---
 
